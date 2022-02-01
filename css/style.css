@@ -1,0 +1,17 @@
+body{
+    background-image: url(/images/5291450.jpg);
+}
+h1,h2{
+    font-style: italic;
+    font-weight: bold;
+}
+label{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+}
+td{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+}
